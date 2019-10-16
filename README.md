@@ -21,7 +21,7 @@ This script provides simple codes for "copy-paste-run" YOLO on your machine or c
 *   Execute a reference demo
 *   Visualise detection results
 
-[Clik Here](https://github.com/user/repo/blob/branch/other_file.md) for the notebook.
+[Clik Here](https://github.com/Mercurise/Reproduce-YOLO-on-Google-Colab/blob/master/YOLO_quick_deploy_version.ipynb) for the notebook.
 
 
 
