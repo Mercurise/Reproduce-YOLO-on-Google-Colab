@@ -3,7 +3,7 @@ This repository provides detailed JupyterNotebook scripts about reproducing YOLO
 
 ---
 ## Acknowledgement:
-These contents are inspired and re-organised from [Ivan Goncharov's tutorials](https://https://www.youtube.com/playlist?list=PLZBN9cDu0MSk4IFFnTOIDihvhnHWhAa8W) and [kriyeng's GitHub repository](https://github.com/kriyeng/darknet), many thanks for their informative materials, I do learn a lot from them.
+These contents are inspired and re-organised from [Ivan Goncharov's tutorials](https://www.youtube.com/playlist?list=PLZBN9cDu0MSk4IFFnTOIDihvhnHWhAa8W) and [kriyeng's GitHub repository](https://github.com/kriyeng/darknet), many thanks for their informative materials, I do learn a lot from them.
 
 ---
 
@@ -21,6 +21,7 @@ This script provides simple codes for "copy-paste-run" YOLO on your machine or c
 *   Execute a reference demo
 *   Visualise detection results
 
+[Clik Here](https://github.com/user/repo/blob/branch/other_file.md) for the notebook.
 
 
 
