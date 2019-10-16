@@ -2,13 +2,13 @@
 This repository provides detailed JupyterNotebook scripts about reproducing YOLO on Google Colab and **FIXed** some minor errors 
 
 ---
-##Acknowledgement:
+## Acknowledgement:
 These contents are inspired and re-organised from [Ivan Goncharov's tutorials](https://https://www.youtube.com/playlist?list=PLZBN9cDu0MSk4IFFnTOIDihvhnHWhAa8W) and [kriyeng's GitHub repository](https://github.com/kriyeng/darknet), many thanks for their informative materials, I do learn a lot from them.
 
 ---
 
 
-##"YOLO Taster" 
+## "YOLO Taster" 
 
 > A simple short script for deploying and running pre-trained YOLO model on your machine
 
