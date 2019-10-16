@@ -1,4 +1,4 @@
-# Reproduce-YOLO-on-Google-Colab
+# Reproduce-YOLO-Darknet-on-Google-Colab
 This repository provides detailed JupyterNotebook scripts about reproducing YOLO on Google Colab and **FIXed** some minor errors 
 
 ---
@@ -23,5 +23,13 @@ This script provides simple codes for "copy-paste-run" YOLO on your machine or c
 
 [Clik Here](https://github.com/Mercurise/Reproduce-YOLO-on-Google-Colab/blob/master/YOLO_quick_deploy_version.ipynb) for the notebook.
 
+
+---
+
+## YOLO Darknet on Google Colab
+
+---
+
+## YOLO Implementation Notes
 
 
